@@ -16,7 +16,7 @@ h1 {
 /* Style the h2 heading */
 h2 {
     font-size: 30px;
-    color: #c4c4c4;
+    color: #000000
 }
 
 /* Style the default paragraphs */
@@ -63,6 +63,11 @@ div {
     margin-right: 50px;
     border-right: 5px solid #ffffff;
     border-top: 2px solid #ffffff;
+    color: #c4c4c4;
+}
+
+.blue h2 {
+    color: #c4c4c4;
 }
 
 /* Style the yellow div */
@@ -77,7 +82,7 @@ div {
 
 /* Style the green div */
 .green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid #ffffff;
